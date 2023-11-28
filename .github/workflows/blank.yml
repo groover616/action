@@ -13,6 +13,6 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |  
           photo: tests/github.png
-          document: tests/gophercolor.png
+          document: tests/папич.jpg
         
 
