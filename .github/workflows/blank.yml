@@ -11,8 +11,7 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: |  
           photo: tests/папич.jpg
-          document: tests/папич.jpg
+          
         
 
