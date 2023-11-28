@@ -12,7 +12,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |  
-          photo: tests/github.png
+          photo: tests/папич.jpg
           document: tests/папич.jpg
         
 
